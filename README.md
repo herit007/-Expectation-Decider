@@ -106,9 +106,3 @@ Applied Bayes Theorem to compute:
 This project successfully applies probability and statistical concepts to a real dataset, demonstrating how mathematical methods can be used to analyze and interpret data.
 
 ---
-
-## 👤 Author
-
-* Name: *Your Name*
-* Course: *Your Course*
-* Subject: Probability & Statistics
